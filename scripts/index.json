@@ -229,6 +229,18 @@
         "lastEditedBy": "imveryh4ppy",
         "lastEditedByImage": "assets/unverified.png"
     },
+        {
+        "name": "Nebula",
+        "pros": ["99% UNC", "Level 8", "Keyless on Weekends"],
+        "neutral": ["Includes a keysystem", "Owned by AhmadV99"],
+        "cons": [],
+        "link": "https://nebula-rblx.vercel.app",
+        "linkprotected": "https://nebula-rblx.vercel.app",
+        "types": ["unc", "android", "key"],
+        "unc": "https://voxlis.net/assets/unc/nebula.json",
+        "lastEditedBy": "rhuda21",
+        "lastEditedByImage": "assets/unverified.png"
+    },
     {
         "name": "SirHurt",
         "pros": ["Has a decompiler", "99% sUNC [100% UNC]", "Level 8"],
